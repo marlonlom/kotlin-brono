@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Brono</string>
+  <string name="title_main">Gallery</string>
+  <string name="title_detail">Item detail</string>
+</resources>
